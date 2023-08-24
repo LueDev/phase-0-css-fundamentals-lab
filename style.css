@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header{
+  text-align: center;
+  padding: 10px 10px;
+}
+
+header a{
+  background-color: lightgray;
+}
+
+#featured-property p, figcaption{
+  max-width: 800px;
+  text-align: center;
+  margin:auto;
+  line-height: 1.4em;
+}
+
+section img{
+  margin:auto;
+  display:block;
+}
+
+#details div{
+width: 25%;
+float: right;
+margin:0 auto;
+text-align: center;
+background-color: red;
+}
+
